@@ -22,6 +22,12 @@ O **TSP** é um problema clássico da ciência da computação que consiste em e
 
 ---
 
+## 📄 Documentação
+
+A documentação de implementação do projeto pode ser encontrada no arquivo [Documentacao.pdf](./documentacao.pdf)
+
+---
+
 ## 👩‍💻 Integrantes do Grupo
 
 | Nome                        | Matrícula  | Contribuição principal                             |
